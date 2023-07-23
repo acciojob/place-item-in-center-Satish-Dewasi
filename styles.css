@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.holder {
+    display: flex;
+    justify-content: center; /* Centers items along the main axis (horizontal centering) */
+    align-items: center; /* Centers items along the cross axis (vertical centering) */
+    height: 100vh; /* Ensure the holder occupies the full viewport height */
+  }
